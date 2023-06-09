@@ -6,7 +6,6 @@
 	🚧  APLICAÇÃO EM CONSTRUÇÃO...  🚧
 </h3>
 
-
 # Meu Canal no YouTube
 
 Para mais conteúdos educativos sobre desenvolvimento de software, verifique o meu canal do YouTube:
@@ -39,12 +38,27 @@ Para realizar o clone o projeto em sua máquina, e necessário que tenha as segu
 
 Atualmente o projeto não necessita de nenhuma variável ambiente, então, é simples para você deixar o projeto em execução.
 
+# Criar o projeto Windows com React Native
+
+```bash
+# Criar o projeto
+$ npx react-native init MacOSApp --version '^0.71.0'
+
+# Instale a extensão do Windows
+$ npx react-native-macos-init
+
+# Executar a aplicação android
+$ npx react-native run-windows
+```
+
+# Clonar o projeto
+
 ```bash
 # Clonar o repositório
-$ git https://github.com/SilvaneiMartins/mydelivey
+$ git https://github.com/SilvaneiMartins/windows_os_app
 
 # Acessar a pasta do projeto
-$ cd mydelivey
+$ cd windows_os_app
 
 # Instalar as dependências
 $ yarn
@@ -52,13 +66,11 @@ OU
 $ npm install
 
 # Executar a aplicação android
-$ expo start # Caso tenha o expo instalado globalmente em sua máquina
-ou
-npx expo start # Caso não tenha o expo instalado em sua máquina
+$ npx react-native run-windows
 ```
 # Licença
 
-Este projeto está sob a licença MIT. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/mydelivey/blob/master/LICENSE) para maiores informações.
+Este projeto está sob a licença MIT. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/windows_os_app/blob/master/LICENSE) para maiores informações.
 
 # Desenvolvedor
 
