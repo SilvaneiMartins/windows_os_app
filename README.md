@@ -1,5 +1,6 @@
 <h1 align="center">
-   APLICATIVO WINDOWS + REACT NATIVE + TYPESCRIPT
+   APLICATIVO WINDOWS
+REACT NATIVE + TYPESCRIPT
 </h1>
 
 <h3 align="center">
@@ -71,6 +72,14 @@ $ npx react-native run-windows
 # Licença
 
 Este projeto está sob a licença MIT. Caso gostaria de ler, por favor acessar a licença aqui neste link [LICENSE](https://github.com/SilvaneiMartins/windows_os_app/blob/master/LICENSE) para maiores informações.
+
+# Tecnologias do projeto;
+
+Aqui tem link de algumas das tecnologias utilizada no projeto para sistema operacional windows.
+
+-   [NATIVEBASE](https://nativebase.io/)
+-   [REACT-NATIVE](https://reactnative.dev/)
+-   [PHOSPHORICONS](https://phosphoricons.com/)
 
 # Desenvolvedor
 
